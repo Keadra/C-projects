@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hcy13/CLionProjects/project9/Trie.cpp
+Trie.h
+C:/Users/hcy13/CLionProjects/project9/Trie.h
+
+C:/Users/hcy13/CLionProjects/project9/Trie.h
+TrieNode.h
+C:/Users/hcy13/CLionProjects/project9/TrieNode.h
+iostream
+-
+fstream
+-
+stdexcept
+-
+exception
+-
+
+C:/Users/hcy13/CLionProjects/project9/TrieNode.cpp
+TrieNode.h
+C:/Users/hcy13/CLionProjects/project9/TrieNode.h
+
+C:/Users/hcy13/CLionProjects/project9/TrieNode.h
+string
+-
+cstdlib
+-
+iostream
+-
+fstream
+-
+
+C:/Users/hcy13/CLionProjects/project9/project9.cpp
+Trie.h
+C:/Users/hcy13/CLionProjects/project9/Trie.h
+iostream
+-
+
