@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hcy13/CLionProjects/project10/Grid.cpp
+Grid.h
+C:/Users/hcy13/CLionProjects/project10/Grid.h
+
+C:/Users/hcy13/CLionProjects/project10/Grid.h
+string
+-
+fstream
+-
+iostream
+-
+GridPoint.h
+C:/Users/hcy13/CLionProjects/project10/GridPoint.h
+
+C:/Users/hcy13/CLionProjects/project10/GridPoint.h
+
+C:/Users/hcy13/CLionProjects/project10/GridSolver.cpp
+GridSolver.h
+C:/Users/hcy13/CLionProjects/project10/GridSolver.h
+
+C:/Users/hcy13/CLionProjects/project10/GridSolver.h
+stack
+-
+Grid.h
+C:/Users/hcy13/CLionProjects/project10/Grid.h
+
+C:/Users/hcy13/CLionProjects/project10/project10.cpp
+GridSolver.h
+C:/Users/hcy13/CLionProjects/project10/GridSolver.h
+
